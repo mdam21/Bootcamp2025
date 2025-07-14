@@ -4,6 +4,15 @@
 
 This module will be in English and Spanish.
 
+#### Lectures (J. M. Ramírez) Neural Networks and Aritificial Intelligence:
+
+#### Code: https://drive.google.com/file/d/1xVfGk8KBBiIlbBwNxogSYLWhAft1cjDI/view?usp=drive_link
+
+#### Code: https://drive.google.com/file/d/1dE4Ov0LU0LdBUs2dWQAcA-E1mKWMatcZ/view?usp=drive_link
+
+#### Tutorial: https://github.com/StatQuest/signa/blob/main/README.md
+
+
 #### Lecture (J.R. Martínez) Introduction to Machine Learning
 
 - Types of machine learning: supervised, unsupervised, self supervised.
@@ -15,6 +24,12 @@ This module will be in English and Spanish.
 - Supervised learning for classification and regression
 
 - Lab: Classification of galaxy images with CNNs.
+
+#### Code: https://colab.research.google.com/drive/1B1nJg3Kk9PmmPn35kbvM5i2MTGQ3XTBZ?usp=sharing
+
+#### Data: https://drive.google.com/file/d/1jupuQxIY-zq6hz-3lcD_JpVisvPzHVS8/view
+
+
 
 #### Lecture (J.R. Martínez) Evaluation Metrics in Machine Learning
 
