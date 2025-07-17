@@ -6,11 +6,21 @@ This module will be in English and Spanish.
 
 ## Lectures (José Manuel Ramírez) Neural Networks and Aritificial Intelligence:
 
-#### Code: https://drive.google.com/file/d/1xVfGk8KBBiIlbBwNxogSYLWhAft1cjDI/view?usp=drive_link
+#### Notes:
 
-#### Code: https://drive.google.com/file/d/1dE4Ov0LU0LdBUs2dWQAcA-E1mKWMatcZ/view?usp=drive_link
+https://github.com/Astronomia-Ecuador/Bootcamp2025/blob/main/CursoB_Semana2/NeuralNetworks_AI/ISYA_GPT-3_v4.pdf
 
-#### Tutorial: https://github.com/StatQuest/signa/blob/main/README.md
+#### Code:
+
+https://drive.google.com/file/d/1xVfGk8KBBiIlbBwNxogSYLWhAft1cjDI/view?usp=drive_link
+
+#### Code:
+
+https://drive.google.com/file/d/1dE4Ov0LU0LdBUs2dWQAcA-E1mKWMatcZ/view?usp=drive_link
+
+#### Tutorial:
+
+https://github.com/StatQuest/signa/blob/main/README.md
 
 
 ## Lectures (Rafael Martínez) Introduction to Machine Learning
